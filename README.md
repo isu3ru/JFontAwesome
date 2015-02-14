@@ -28,9 +28,9 @@ root {
 
 5.Use it like this:
 ```java
-Button button = new Button();
-button.setStyle("-fx-font-size: 16px;");
-button.getStyleClass().add("icons");
-button.setText("Your Awesome Button");
-button.setGraphic(new Label(JFontAwesome.ADJUST));
+Button button = new Button(); // add a button to your borderpane or container
+button.setStyle("-fx-font-size: 16px;"); // set size of the icon plus text
+button.getStyleClass().add("icons"); // add css class
+button.setText("Your Awesome Button"); // set text of the button
+button.setGraphic(new Label(JFontAwesome.ADJUST)); // add FontAwesome icon
 ```
