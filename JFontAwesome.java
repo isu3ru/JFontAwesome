@@ -1,5 +1,6 @@
 /**
 * Created by Arne Gockeln
+* http://www.Webchef.de
 *
 * FontAwesome Unicode Character Mapping
 */
