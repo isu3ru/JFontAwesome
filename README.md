@@ -11,7 +11,7 @@ Font.loadFont(YourApp.class.getResource("Resources/fonts/fontawesome-webfont.ttf
 }
 ```
 
-3.Add stylesheet
+3.Add stylesheet file "icons_default.css" and add it to a container like ```<BorderPane fx:id="MyBorderPane" stylesheets="@styles/icons_default.css" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">```
 ```css
 root {
     -icons-color: rgb(61,114,114);
