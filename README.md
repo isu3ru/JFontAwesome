@@ -3,6 +3,7 @@ Unicode Mapping of all FontAwesome (4.3.0) Icons as static Java class. Use this 
 
 # Usage
 1.Download current release of FontAwesome and extract fontawesome-webfont.ttf to your resource folder.
+
 2.Load the font in your main class like this:
 ```java
 static { 
