@@ -1,5 +1,5 @@
 # JFontAwesome
-Unicode Mapping of all FontAwesome (4.3.0) Icons as static Java class. Use this class in your Java FX projects. Find more information about FontAwesome at http://fortawesome.github.io/Font-Awesome/
+Unicode Mapping of all *FontAwesome 4.3.0* Icons as static Java class. Use this class in your Java FX projects. Find more information about FontAwesome at http://fortawesome.github.io/Font-Awesome/
 
 # Usage
 1.Download current release of FontAwesome and extract fontawesome-webfont.ttf to your resource folder.
